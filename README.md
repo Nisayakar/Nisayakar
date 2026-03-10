@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisa Yakar</h1>
-<h3 align="center">Yazılım Mühendisliği Öğrencisi/h3>
+<h3 align="center">Yazılım Mühendisliği Öğrencisi h3>
 
 <p align="center">
 Spring Boot, Microservices ve RESTful API mimarileri ile ölçeklenebilir backend sistemleri geliştirmeye odaklanıyorum.
