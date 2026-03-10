@@ -51,16 +51,6 @@ Backend-focused Software Engineering student passionate about building scalable 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Saye – Emergency Support & Risk Detection App
-Mobile application that analyzes environmental risks and helps users feel safer in daily life.
-
-**Tech Stack:**  
-Spring Boot • PostgreSQL • Flutter
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
