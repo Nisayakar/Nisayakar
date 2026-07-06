@@ -2,10 +2,6 @@
 <h3 align="center">Yazılım Mühendisliği Öğrencisi
 
 <p align="center">
-Spring Boot, Microservices ve RESTful API mimarileri ile ölçeklenebilir backend sistemleri geliştirmeye odaklanıyorum.
-</p>
-
-<p align="center">
 <a href="https://www.linkedin.com/in/nisayakar/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
