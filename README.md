@@ -16,41 +16,6 @@ Spring Boot, Microservices ve RESTful API mimarileri ile ölçeklenebilir backen
 
 ---
 
-# 👩‍💻 Hakkımda
-
-Spring Boot ve **Microservices Architecture** üzerine çalışan bir Yazılım Mühendisliği öğrencisiyim.  
-Backend development alanında ölçeklenebilir sistemler geliştirmeye ve **RESTful API** tasarımlarına odaklanıyorum.
-
-Ayrıca **veritabanı tabanlı sistemler**, **Docker containerization**, ve **AI integration** içeren projeler geliştiriyorum.
-
----
-
-# 🛠 Teknik Yetkinlikler
-
-### 💻 Programlama Dilleri
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-
-### ⚙️ Backend Development
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-
-Microservices • RESTful API • JWT Authentication
-
-### 🗄 Veritabanı
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-
-SQL • Relational Database Design • Data Modeling
-
-### 🧰 DevOps & Araçlar
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
-
-
----
-
 # 📊 GitHub İstatistikleri
 
 <p align="center">
