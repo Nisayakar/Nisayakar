@@ -1,111 +1,128 @@
-<h1 align="center">Merhaba, ben Nisa Yakar 👋</h1>
+<h1 align="center">Hi 👋, I'm Nisa Yakar</h1>
+
+<h3 align="center">
+Software Engineering Student • Backend Developer • Full Stack Developer
+</h3>
 
 <p align="center">
-Yazılım Mühendisliği 3. Sınıf Öğrencisi <br>
-Backend Development • Spring Boot • PostgreSQL • React
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;React+Developer;Backend+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
+---
+
+## 👩‍💻 About Me
+
+- 🎓 3rd Year Software Engineering Student
+- 💻 Interested in Backend Development & Full Stack Development
+- 🌱 Currently learning **Spring Boot, React, Docker, Linux & DevOps**
+- 🚀 Building **TeamTime** (React + Spring Boot + PostgreSQL)
+- 📚 Passionate about Clean Code and Software Architecture
+- 🎯 Goal: Become a Backend / Full Stack Software Engineer
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JPA-success?style=for-the-badge"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
 
-<a href="https://github.com/Nisayakar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=Nisayakar&show_icons=true&theme=tokyonight"/>
 
-<a href="https://www.linkedin.com/in/nisayakar/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisayakar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nisayakar&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🚀 Current Projects
+
+📌 TeamTime  
+Project Management System
+
+- React
+- Spring Boot
+- PostgreSQL
+- Docker (Coming Soon)
+- JWT Authentication (Coming Soon)
+
+---
+
+## 🌱 Currently Learning
+
+- Spring Boot
+- React
+- PostgreSQL
+- Linux
+- Docker
+- DevOps
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
 
 <a href="mailto:lnisa.yakarl@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/nisayakar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
-
-# 👨‍💻 Hakkımda
-
-- 🎓 İnönü Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim.
-- 💻 Backend geliştirme alanında kendimi geliştiriyorum.
-- ☕ Spring Boot ile RESTful API ve katmanlı mimari üzerine çalışıyorum.
-- ⚛️ React ve TypeScript kullanarak frontend geliştiriyorum.
-- 🗄️ PostgreSQL ile veritabanı tasarımı ve CRUD işlemleri gerçekleştiriyorum.
-- 🐳 Docker, Linux ve DevOps konularında uygulamalı çalışmalar yapıyorum.
-- 🚀 Sürekli yeni teknolojiler öğrenmeye ve gerçek projeler geliştirmeye odaklanıyorum.
-
----
-
-# 🛠️ Teknolojiler
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-005571?style=flat-square)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-# 📂 Öne Çıkan Projeler
-
-### 🚀 TeamTime
-
-> React + Spring Boot + PostgreSQL
-
-Takım ve proje yönetimi uygulaması.
-
----
-
-### 📚 AI Destekli Mikroservis Kütüphane Yönetim Sistemi
-
-Spring Boot • Docker • PostgreSQL • JWT • Prometheus
-
----
-
-### 🚇 GoPass
-
-Spring Boot tabanlı geçiş kontrol sistemi.
-
----
-
-### ❤️ LightLife
-
-Sağlık takip sistemi.
-
----
-
-# 📈 GitHub İstatistikleri
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nisayakar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisayakar&layout=compact&theme=tokyonight&hide_border=true"/>
+> *"Code is like humor. When you have to explain it, it's bad."*
 
 </p>
-
----
-
-# 📫 İletişim
-
-📧 **lnisa.yakarl@gmail.com**
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/nisayakar
