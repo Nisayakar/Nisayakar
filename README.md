@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisa Yakar</h1>
 
----
-
 ## 👩‍💻 About Me
 
 - 🎓 3rd Year Software Engineering Student
@@ -45,20 +43,6 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=Nisayakar&show_icons=true&theme=tokyonight"/>
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisayakar&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
