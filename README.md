@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisa Yakar</h1>
 
-<h3 align="center">
-Software Engineering Student • Backend Developer • Full Stack Developer
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;React+Developer;Backend+Enthusiast;Always+Learning+New+Technologies" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
@@ -78,30 +70,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisayakar&la
 <img src="https://streak-stats.demolab.com?user=Nisayakar&theme=tokyonight"/>
 
 </p>
-
----
-
-## 🚀 Current Projects
-
-📌 TeamTime  
-Project Management System
-
-- React
-- Spring Boot
-- PostgreSQL
-- Docker (Coming Soon)
-- JWT Authentication (Coming Soon)
-
----
-
-## 🌱 Currently Learning
-
-- Spring Boot
-- React
-- PostgreSQL
-- Linux
-- Docker
-- DevOps
 
 ---
 
