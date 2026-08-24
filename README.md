@@ -50,17 +50,6 @@
 
 ---
 
-## Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **YAKA & TeamTime** | Corporate personnel portal and task management system. | React, Express.js, Spring Boot, PostgreSQL |
-| **Saye** | Mobile safety and emergency response application with geospatial risk algorithms. | Flutter, Spring Boot, PostgreSQL |
-| **BİLDÜNYA** | Interactive geography educational mobile application. | Flutter, Spring Boot, PostgreSQL |
-| **LightLife & GoPass** | Dietitian service backend system and travel ticket booking UI. | Java, Spring Boot, HTML/CSS |
-
----
-
 ## GitHub Analytics
 
 <div align="center">
