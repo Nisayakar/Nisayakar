@@ -1,80 +1,94 @@
-<h1 align="center">Hi 👋, I'm Nisa Yakar</h1>
+<h1 align="center">Hi, I'm Nisa Yakar</h1>
+<h3 align="center">Software Engineering Student | Backend & Full Stack Developer</h3>
 
-## 👩‍💻 About Me
+<br/>
 
-- 🎓 3rd Year Software Engineering Student
-- 💻 Interested in Backend Development & Full Stack Development
-- 🌱 Currently learning **Spring Boot, React, Docker, Linux & DevOps**
-- 🚀 Building **TeamTime** (React + Spring Boot + PostgreSQL)
-- 📚 Passionate about Clean Code and Software Architecture
-- 🎯 Goal: Become a Backend / Full Stack Software Engineer
+## About Me
 
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring" />
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JPA-success?style=for-the-badge"/>
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres" />
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea" />
-</p>
+- **4th Year** Software Engineering Student
+- Specializing in **Backend Development & Full Stack Architecture**
+- Currently diving deeper into **Spring Boot, React, Docker, Linux & DevOps**
+- Building scalable applications like **TeamTime** & **YAKA**
+- Developing impactful mobile & web solutions (e.g., **Saye**, **BİLDÜNYA**)
+- Passionate about Clean Code, System Design, and Microservices
+- Goal: Become a highly skilled Backend / Full Stack Software Engineer
 
 ---
 
-## 🔥 GitHub Streak
+## Tech Stack
+
+### Languages
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,ts,js,c" />
+  </a>
+</p>
+
+### Backend & Database
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,postgres,flask,express" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-success?style=for-the-badge"/>
+</p>
+
+### Frontend & Mobile
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,flutter,html,css" />
+  </a>
+</p>
+
+### Tools & DevOps
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea" />
+  </a>
+</p>
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **YAKA & TeamTime** | Corporate personnel portal and task management system. | React, Express.js, Spring Boot, PostgreSQL |
+| **Saye** | Mobile safety and emergency response application with geospatial risk algorithms. | Flutter, Spring Boot, PostgreSQL |
+| **BİLDÜNYA** | Interactive geography educational mobile application. | Flutter, Spring Boot, PostgreSQL |
+| **LightLife & GoPass** | Dietitian service backend system and travel ticket booking UI. | Java, Spring Boot, HTML/CSS |
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nisayakar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisayakar&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nisayakar&theme=tokyonight&hide_border=true&background=1A1B27" />
+</div>
+
+---
+
+## Connect with Me
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nisayakar&theme=tokyonight"/>
-
+  <a href="mailto:lnisa.yakarl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nisayakar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
----
-
-## 📫 Contact Me
+<br/>
 
 <p align="center">
-
-<a href="mailto:lnisa.yakarl@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nisayakar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-> *"Code is like humor. When you have to explain it, it's bad."*
-
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
