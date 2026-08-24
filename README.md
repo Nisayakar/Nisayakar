@@ -8,8 +8,6 @@
 - **4th Year** Software Engineering Student
 - Specializing in **Backend Development & Full Stack Architecture**
 - Currently diving deeper into **Spring Boot, React, Docker, Linux & DevOps**
-- Building scalable applications like **TeamTime** & **YAKA**
-- Developing impactful mobile & web solutions (e.g., **Saye**, **BİLDÜNYA**)
 - Passionate about Clean Code, System Design, and Microservices
 - Goal: Become a highly skilled Backend / Full Stack Software Engineer
 
