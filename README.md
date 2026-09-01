@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Nisa Yakar — Yazılım Mühendisliği" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img src="./assets/header-dark.svg" width="100%" alt="Nisa Yakar — Yazılım Mühendisliği">
+</picture>
 
 <p align="center">
   <a href="https://github.com/Nisayakar"><b>GitHub</b></a>
@@ -24,42 +26,57 @@ Kodun yalnızca çalışmasına değil; **okunabilir, sürdürülebilir ve geli�
 
 ## Teknik Odağım
 
-<p align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Teknoloji yığını" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+  <img src="./assets/stack-dark.svg" width="100%" alt="Teknoloji yığını">
+</picture>
 
 ---
 
 ## Şu Sıralar
 
-<p align="center">
-  <img src="./assets/focus.svg" width="100%" alt="Şu sıralar üzerinde çalıştıklarım" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/focus-light.svg">
+  <img src="./assets/focus-dark.svg" width="100%" alt="Şu sıralar üzerinde çalıştıklarım">
+</picture>
 
 ---
 
 ## Geliştirme Yaklaşımım
 
-<p align="center">
-  <img src="./assets/principles.svg" width="100%" alt="Geliştirme yaklaşımım" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/principles-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/principles-light.svg">
+  <img src="./assets/principles-dark.svg" width="100%" alt="Geliştirme yaklaşımım">
+</picture>
 
 - Gereksiz karmaşıklık yerine **net ve anlaşılır çözümler**
 - Backend tarafında **temiz katmanlar ve iyi API tasarımı**
 - Veritabanında **doğru modelleme ve sürdürülebilir yapı**
 - Küçük adımlarla sürekli geliştirme ve öğrenme
-- Bir şeyi öğrenmenin en iyi yolu: **gerçek bir şey geliştirip bozmak, sonra düzeltmek**
 
 ---
 
 ## Contribution Snake
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake-dark.svg?v=5"
-    alt="Nisa Yakar GitHub Contribution Snake"
-    width="100%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake-dark.svg?v=6"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake.svg?v=6"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake-dark.svg?v=6"
+      alt="Nisa Yakar GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
 </div>
 
 ---
