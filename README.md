@@ -44,44 +44,53 @@
   </a>
 </p>
 
----
+About Me
 
-## About Me
+I am a 4th-year Software Engineering student focused on building reliable, maintainable and scalable software systems.
 
-I am a **4th-year Software Engineering student** focused on building reliable, maintainable and scalable software systems.
+My primary interests are Backend Engineering and Full Stack Development, with a strong focus on Spring Boot, RESTful APIs, database design, React and Flutter.
 
-My primary interests are **Backend Engineering** and **Full Stack Development**, with a strong focus on **Spring Boot, RESTful APIs, database design, React and Flutter**.
+I care about more than making software simply work. I focus on clean architecture, readable code, API design, maintainability, security and real-world product requirements.
 
-I care about more than making software simply work. I focus on **clean architecture, readable code, API design, maintainability, security and real-world product requirements**.
+Alongside my core software engineering work, I am expanding my knowledge in AI / Machine Learning with Python, particularly around practical AI integration, data processing and intelligent software products.
 
-Alongside my core software engineering work, I am expanding my knowledge in **AI / Machine Learning with Python**, particularly around practical AI integration, data processing and intelligent software products.
+Engineering Interests
 
-### Engineering Interests
+Backend Development & REST API Design
 
-- Backend Development & REST API Design
-- Full Stack Application Architecture
-- Spring Boot & Java Ecosystem
-- React & Modern Frontend Development
-- Flutter Mobile Development
-- PostgreSQL & Relational Data Modeling
-- Clean Code & Software Architecture
-- System Design & Microservices
-- Docker, Linux & DevOps
-- AI / ML Integration with Software Products
+Full Stack Application Architecture
 
-### Open To
+Spring Boot & Java Ecosystem
 
-- Backend Software Engineering opportunities
-- Full Stack Development opportunities
-- Software Engineering internships and junior roles
-- Open-source collaboration
-- Product-focused engineering projects
+React & Modern Frontend Development
 
----
+Flutter Mobile Development
 
-## Tech Stack
+PostgreSQL & Relational Data Modeling
 
-### Languages
+Clean Code & Software Architecture
+
+System Design & Microservices
+
+Docker, Linux & DevOps
+
+AI / ML Integration with Software Products
+
+Open To
+
+Backend Software Engineering opportunities
+
+Full Stack Development opportunities
+
+Software Engineering internships and junior roles
+
+Open-source collaboration
+
+Product-focused engineering projects
+
+Tech Stack
+
+Languages
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -89,7 +98,7 @@ Alongside my core software engineering work, I am expanding my knowledge in **AI
   </a>
 </p>
 
-### Frontend
+Frontend
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -97,7 +106,7 @@ Alongside my core software engineering work, I am expanding my knowledge in **AI
   </a>
 </p>
 
-### Backend & Databases
+Backend & Databases
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -111,7 +120,7 @@ Alongside my core software engineering work, I am expanding my knowledge in **AI
   <img src="https://img.shields.io/badge/Database%20Design-7C3AED?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-### Cloud, DevOps & Tooling
+Cloud, DevOps & Tooling
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -126,39 +135,82 @@ Alongside my core software engineering work, I am expanding my knowledge in **AI
   <img src="https://img.shields.io/badge/Git%20Workflow-7C3AED?style=flat-square" />
 </p>
 
----
+AI / ML Expertise
 
-## AI / ML Expertise
+Domain
 
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Python for AI / ML** | Developing | Building a stronger foundation for data processing, experimentation and AI-oriented application development |
-| **Applied Machine Learning** | Developing | Studying practical ML workflows including preprocessing, experimentation and model evaluation |
-| **AI Integration** | Exploring | Exploring how AI capabilities can be integrated into backend services and real-world software products |
-| **Data Handling** | Intermediate | Working with structured data, relational databases and application-level data flows |
-| **AI Product Engineering** | Exploring | Interested in combining conventional software architecture with intelligent product features |
+Proficiency
 
----
+Details
 
-## Featured Projects
+Python for AI / ML
+
+Developing
+
+Building a stronger foundation for data processing, experimentation and AI-oriented application development
+
+Applied Machine Learning
+
+Developing
+
+Studying practical ML workflows including preprocessing, experimentation and model evaluation
+
+AI Integration
+
+Exploring
+
+Exploring how AI capabilities can be integrated into backend services and real-world software products
+
+Data Handling
+
+Intermediate
+
+Working with structured data, relational databases and application-level data flows
+
+AI Product Engineering
+
+Exploring
+
+Interested in combining conventional software architecture with intelligent product features
+
+Featured Projects
 
 <details>
 <summary><b>Saye — Location-Based Mobile Security System</b></summary>
 
 <br/>
 
-**Saye** is a location-based mobile security application designed around **risk analysis and tracking capabilities**.
+Saye is a location-based mobile security application designed around risk analysis and tracking capabilities.
 
-The project combines **Flutter** for the mobile application with **Spring Boot** for backend services, providing experience in cross-platform development, backend integration and security-focused product engineering.
+The project combines Flutter for the mobile application with Spring Boot for backend services, providing experience in cross-platform development, backend integration and security-focused product engineering.
 
-| Engineering Area | Details |
-| :--- | :--- |
-| **Stack** | Flutter, Dart, Spring Boot, REST APIs |
-| **Scale** | Mobile client + backend service architecture |
-| **Performance** | API-oriented architecture designed for responsive application workflows |
-| **Security** | Security-focused product domain with risk and location-based functionality |
-| **Impact** | Demonstrates end-to-end mobile and backend engineering |
-| **Repository** | [github.com/Nisayakar/Saye](https://github.com/Nisayakar/Saye) |
+Engineering Area
+
+Details
+
+Stack
+
+Flutter, Dart, Spring Boot, REST APIs
+
+Scale
+
+Mobile client + backend service architecture
+
+Performance
+
+API-oriented architecture designed for responsive application workflows
+
+Security
+
+Security-focused product domain with risk and location-based functionality
+
+Impact
+
+Demonstrates end-to-end mobile and backend engineering
+
+Repository
+
+github.com/Nisayakar/Saye
 
 The project reflects a product-oriented engineering approach by combining mobile user experience with backend business logic and location-aware functionality.
 
@@ -177,20 +229,39 @@ The project reflects a product-oriented engineering approach by combining mobile
 
 <br/>
 
-**GoPass** is a **Spring Boot-based backend system** built for managing travel routes, locations and transportation-related data through RESTful APIs.
+GoPass is a Spring Boot-based backend system built for managing travel routes, locations and transportation-related data through RESTful APIs.
 
 The project focuses on backend architecture, API development and maintainable domain-oriented application structure.
 
-| Engineering Area | Details |
-| :--- | :--- |
-| **Stack** | Java, Spring Boot, REST APIs |
-| **Scale** | Backend service for route, location and transportation data |
-| **Performance** | Structured REST architecture designed for efficient data access and maintainability |
-| **Security** | API-oriented architecture with clear service boundaries |
-| **Impact** | Strengthens backend engineering and REST API design experience |
-| **Repository** | [github.com/Nisayakar/GoPass](https://github.com/Nisayakar/GoPass) |
+Engineering Area
 
-GoPass demonstrates practical experience with the **Java / Spring ecosystem**, backend business logic and designing services around real application entities.
+Details
+
+Stack
+
+Java, Spring Boot, REST APIs
+
+Scale
+
+Backend service for route, location and transportation data
+
+Performance
+
+Structured REST architecture designed for efficient data access and maintainability
+
+Security
+
+API-oriented architecture with clear service boundaries
+
+Impact
+
+Strengthens backend engineering and REST API design experience
+
+Repository
+
+github.com/Nisayakar/GoPass
+
+GoPass demonstrates practical experience with the Java / Spring ecosystem, backend business logic and designing services around real application entities.
 
 <p align="right">
   <a href="https://github.com/Nisayakar/GoPass">
@@ -207,16 +278,35 @@ GoPass demonstrates practical experience with the **Java / Spring ecosystem**, b
 
 <br/>
 
-A repository centered around **data organization and structured software development**, strengthening practical experience with data-oriented programming concepts and implementation workflows.
+A repository centered around data organization and structured software development, strengthening practical experience with data-oriented programming concepts and implementation workflows.
 
-| Engineering Area | Details |
-| :--- | :--- |
-| **Stack** | Data-oriented software development |
-| **Scale** | Focused educational / engineering repository |
-| **Performance** | Emphasis on structured and maintainable implementation |
-| **Security** | Scope-dependent application-level practices |
-| **Impact** | Strengthens data organization and problem-solving fundamentals |
-| **Repository** | [github.com/Nisayakar/veri_organizasyonu](https://github.com/Nisayakar/veri_organizasyonu) |
+Engineering Area
+
+Details
+
+Stack
+
+Data-oriented software development
+
+Scale
+
+Focused educational / engineering repository
+
+Performance
+
+Emphasis on structured and maintainable implementation
+
+Security
+
+Scope-dependent application-level practices
+
+Impact
+
+Strengthens data organization and problem-solving fundamentals
+
+Repository
+
+github.com/Nisayakar/veri_organizasyonu
 
 <p align="right">
   <a href="https://github.com/Nisayakar/veri_organizasyonu">
@@ -226,24 +316,27 @@ A repository centered around **data organization and structured software develop
 
 </details>
 
----
+Experience
 
-## Experience
+Software Engineering Intern
 
-### Software Engineering Intern
-**Yeşilyurt Municipality**
+Yeşilyurt Municipality
 
-`2026`
+2026
 
 Worked in a municipal software environment with a focus on understanding real operational requirements and evaluating practical digital solutions for internal workflows.
 
-**Scope of Work**
+Scope of Work
 
-- Evaluated software ideas for real municipal use cases
-- Focused on practical and maintainable digital solutions
-- Applied software engineering and product-thinking principles
-- Explored mobile-first approaches for internal workflows
-- Continued developing backend and full stack engineering skills in a real organizational environment
+Evaluated software ideas for real municipal use cases
+
+Focused on practical and maintainable digital solutions
+
+Applied software engineering and product-thinking principles
+
+Explored mobile-first approaches for internal workflows
+
+Continued developing backend and full stack engineering skills in a real organizational environment
 
 <p>
   <img src="https://img.shields.io/badge/Software%20Engineering-312E81?style=flat-square" />
@@ -252,45 +345,55 @@ Worked in a municipal software environment with a focus on understanding real op
   <img src="https://img.shields.io/badge/Digitalization-7C3AED?style=flat-square" />
 </p>
 
----
-
-## Achievements
+Achievements
 
 <div align="center">
 
-| Recognition | Details |
-| :---: | :--- |
-| **312 GitHub Contributions** | Maintained consistent development activity across the last year as of September 2026 |
-| **Multi-Platform Development** | Built projects across backend, mobile and full stack technologies |
-| **Spring Boot Engineering** | Developed REST-oriented backend applications using the Java ecosystem |
-| **Mobile + Backend Integration** | Combined Flutter applications with backend service architectures |
-| **Continuous Engineering Growth** | Actively developing skills in system design, DevOps, microservices and AI-assisted software products |
+Recognition
+
+Details
+
+312 GitHub Contributions
+
+Maintained consistent development activity across the last year as of September 2026
+
+Multi-Platform Development
+
+Built projects across backend, mobile and full stack technologies
+
+Spring Boot Engineering
+
+Developed REST-oriented backend applications using the Java ecosystem
+
+Mobile + Backend Integration
+
+Combined Flutter applications with backend service architectures
+
+Continuous Engineering Growth
+
+Actively developing skills in system design, DevOps, microservices and AI-assisted software products
 
 </div>
 
----
+Certifications
 
-## Certifications
+AWS
 
-### AWS
 
-![AWS](https://img.shields.io/badge/AWS-No%20Verified%20Certification%20Listed-312E81?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-### Oracle
+Oracle
 
-![Oracle](https://img.shields.io/badge/Oracle-No%20Verified%20Certification%20Listed-4F46E5?style=flat-square&logo=oracle&logoColor=white)
 
-### NPTEL
 
-![NPTEL](https://img.shields.io/badge/NPTEL-No%20Verified%20Certification%20Listed-6D28D9?style=flat-square)
+NPTEL
 
-### Cisco
 
-![Cisco](https://img.shields.io/badge/Cisco-No%20Verified%20Certification%20Listed-7C3AED?style=flat-square&logo=cisco&logoColor=white)
 
----
+Cisco
 
-## Coding Profiles
+
+
+Coding Profiles
 
 <p align="center">
   <a href="https://github.com/Nisayakar">
@@ -304,9 +407,7 @@ Worked in a municipal software environment with a focus on understanding real op
   </sub>
 </p>
 
----
-
-## GitHub Analytics
+GitHub Analytics
 
 <p align="center">
   <img
@@ -326,9 +427,7 @@ Worked in a municipal software environment with a focus on understanding real op
   />
 </p>
 
----
-
-## GitHub Trophies
+GitHub Trophies
 
 <p align="center">
   <img
@@ -337,9 +436,7 @@ Worked in a municipal software environment with a focus on understanding real op
   />
 </p>
 
----
-
-## Contribution Activity
+Contribution Activity
 
 <p align="center">
   <img
@@ -349,22 +446,30 @@ Worked in a municipal software environment with a focus on understanding real op
   />
 </p>
 
----
+Contribution Snake
 
-## Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake-dark.svg"
   />
-</p>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Nisa Yakar GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 
----
+</div>
 
-## Current Focus
+Current Focus
 
-```yaml
 learning:
   - Advanced Spring Boot
   - Docker & Linux
@@ -389,11 +494,8 @@ open_to:
   - Full Stack Development
   - Software Engineering opportunities
   - Open-source collaboration
-```
 
----
-
-## Connect
+Connect
 
 <p align="center">
   <a href="mailto:lnisa.yakarl@gmail.com">
@@ -409,8 +511,6 @@ open_to:
     <img src="https://img.shields.io/badge/Portfolio-Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   <i>"Build software that is clean, scalable, useful, and engineered to last."</i>
