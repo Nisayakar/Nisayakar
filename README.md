@@ -1,5 +1,10 @@
-![Nisa Yakar — Yazılım Mühendisliği](./assets/header-dark.svg#gh-dark-mode-only)
-![Nisa Yakar — Yazılım Mühendisliği](./assets/header-light.svg#gh-light-mode-only)
+<p align="center">
+  <img
+    src="./assets/header-dark.svg"
+    width="100%"
+    alt="Nisa Yakar — Yazılım Mühendisliği"
+  />
+</p>
 
 <p align="center">
   <a href="https://github.com/Nisayakar"><b>GitHub</b></a>
@@ -23,22 +28,37 @@ Kodun yalnızca çalışmasına değil; **okunabilir, sürdürülebilir ve geli�
 
 ## Teknik Odağım
 
-![Teknoloji yığını](./assets/stack-dark.svg#gh-dark-mode-only)
-![Teknoloji yığını](./assets/stack-light.svg#gh-light-mode-only)
+<p align="center">
+  <img
+    src="./assets/stack-dark.svg"
+    width="100%"
+    alt="Teknoloji yığını"
+  />
+</p>
 
 ---
 
 ## Şu Sıralar
 
-![Şu sıralar üzerinde çalıştıklarım](./assets/focus-dark.svg#gh-dark-mode-only)
-![Şu sıralar üzerinde çalıştıklarım](./assets/focus-light.svg#gh-light-mode-only)
+<p align="center">
+  <img
+    src="./assets/focus-dark.svg"
+    width="100%"
+    alt="Şu sıralar üzerinde çalıştıklarım"
+  />
+</p>
 
 ---
 
 ## Geliştirme Yaklaşımım
 
-![Geliştirme yaklaşımım](./assets/principles-dark.svg#gh-dark-mode-only)
-![Geliştirme yaklaşımım](./assets/principles-light.svg#gh-light-mode-only)
+<p align="center">
+  <img
+    src="./assets/principles-dark.svg"
+    width="100%"
+    alt="Geliştirme yaklaşımım"
+  />
+</p>
 
 - Gereksiz karmaşıklık yerine **net ve anlaşılır çözümler**
 - Backend tarafında **temiz katmanlar ve iyi API tasarımı**
@@ -50,10 +70,11 @@ Kodun yalnızca çalışmasına değil; **okunabilir, sürdürülebilir ve geli�
 ## Contribution Snake
 
 <div align="center">
-
-![Nisa Yakar GitHub Contribution Snake](https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake-dark.svg?v=6#gh-dark-mode-only)
-![Nisa Yakar GitHub Contribution Snake](https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake.svg?v=6#gh-light-mode-only)
-
+  <img
+    src="https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake-dark.svg?v=8"
+    alt="Nisa Yakar GitHub Contribution Snake"
+    width="100%"
+  />
 </div>
 
 ---
