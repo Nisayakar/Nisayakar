@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset=".52" stop-color="#101522"/><stop offset="1" stop-color="#0d1117"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#58a6ff"/><stop offset=".48" stop-color="#8b5cf6"/><stop offset="1" stop-color="#39d353"/>
+  </linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#21262d" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="24" fill="url(#grid)" opacity=".35"/>
+<rect x="68" y="62" width="6" height="160" rx="3" fill="url(#line)">
+  <animate attributeName="opacity" values=".55;1;.55" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+<text x="108" y="110" font-family="Segoe UI, Arial" font-size="48" font-weight="700" fill="#f0f6fc">Nisa Yakar</text>
+<text x="110" y="151" font-family="Segoe UI, Arial" font-size="22" fill="#c9d1d9">Yazılım Mühendisliği Öğrencisi</text>
+<text x="110" y="188" font-family="Consolas, monospace" font-size="18" fill="#8b949e">Backend • Full Stack • Mobile</text>
+<g transform="translate(110,220)" font-family="Segoe UI, Arial" font-size="14">
+  <g><rect width="126" height="34" rx="17" fill="#161b22" stroke="#30363d"/><text x="63" y="22" text-anchor="middle" fill="#f0f6fc">Java / Spring</text></g>
+  <g transform="translate(140,0)"><rect width="92" height="34" rx="17" fill="#161b22" stroke="#30363d"/><text x="46" y="22" text-anchor="middle" fill="#f0f6fc">Flutter</text></g>
+  <g transform="translate(246,0)"><rect width="82" height="34" rx="17" fill="#161b22" stroke="#30363d"/><text x="41" y="22" text-anchor="middle" fill="#f0f6fc">React</text></g>
+  <g transform="translate(342,0)"><rect width="116" height="34" rx="17" fill="#161b22" stroke="#30363d"/><text x="58" y="22" text-anchor="middle" fill="#f0f6fc">PostgreSQL</text></g>
+</g>
+<g transform="translate(905,85)">
+  <rect width="190" height="130" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <text x="22" y="38" font-family="Consolas, monospace" font-size="15" fill="#7ee787">$ build</text>
+  <text x="22" y="67" font-family="Consolas, monospace" font-size="15" fill="#58a6ff">clean_code</text>
+  <text x="22" y="96" font-family="Consolas, monospace" font-size="15" fill="#a78bfa">scalable_systems</text>
+  <rect x="22" y="108" width="8" height="15" fill="#c9d1d9"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
+</g>
+</svg>

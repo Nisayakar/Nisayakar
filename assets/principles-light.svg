@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210">
+<rect width="1200" height="210" rx="22" fill="#ffffff" stroke="#d0d7de"/>
+<g font-family="Segoe UI, Arial">
+  <g transform="translate(42,46)"><rect width="260" height="118" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text x="24" y="38" font-size="17" font-weight="700" fill="#0969da">01 — Netlik</text><text x="24" y="72" font-size="15" fill="#24292f">Okunabilir kod,</text><text x="24" y="95" font-size="15" fill="#24292f">anlaşılır yapı.</text></g>
+  <g transform="translate(324,46)"><rect width="260" height="118" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text x="24" y="38" font-size="17" font-weight="700" fill="#8250df">02 — Mimari</text><text x="24" y="72" font-size="15" fill="#24292f">Doğru sorumluluk,</text><text x="24" y="95" font-size="15" fill="#24292f">temiz katmanlar.</text></g>
+  <g transform="translate(606,46)"><rect width="260" height="118" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text x="24" y="38" font-size="17" font-weight="700" fill="#1a7f37">03 — Süreklilik</text><text x="24" y="72" font-size="15" fill="#24292f">Küçük adımlar,</text><text x="24" y="95" font-size="15" fill="#24292f">düzenli gelişim.</text></g>
+  <g transform="translate(888,46)"><rect width="270" height="118" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text x="24" y="38" font-size="17" font-weight="700" fill="#9a6700">04 — Merak</text><text x="24" y="72" font-size="15" fill="#24292f">Deneyerek öğren,</text><text x="24" y="95" font-size="15" fill="#24292f">ölçerek iyileştir.</text></g>
+</g>
+</svg>
