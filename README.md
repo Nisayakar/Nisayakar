@@ -446,7 +446,7 @@ Contribution Activity
   />
 </p>
 
-Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
