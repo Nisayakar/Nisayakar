@@ -448,24 +448,14 @@ Contribution Activity
 
 ## Contribution Snake
 
-<div align="center">
+## Contribution Snake
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake-dark.svg?v=4"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake.svg?v=4"
-  />
+<div align="center">
   <img
+    src="https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake-dark.svg?v=5"
     alt="Nisa Yakar GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Nisayakar/Nisayakar/output/github-contribution-grid-snake.svg?v=4"
     width="100%"
   />
-</picture>
-
 </div>
 Current Focus
 
